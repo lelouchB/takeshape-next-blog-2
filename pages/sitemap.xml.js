@@ -32,7 +32,7 @@ const createSitemap = (data, origin) => {
               .map((tag) => {
                 return `
                           <url>
-                              <loc>${`${origin}/blog/${tag._id}`}</loc>
+                              <loc>${`${origin}/tag/${tag._id}`}</loc>
                               <lastmod>${tag._updatedAt}</lastmod>
                           </url>
                       `;
