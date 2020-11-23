@@ -46,7 +46,7 @@ export async function getServerSideProps({ res }) {
       const data = await getDataForSitemap();
 
       res.setHeader('Content-Type', 'text/xml')
-      res.write(createSitemap(data, "http://localhost:3000"))
+      res.write(createSitemap(data, "https://takeshape-next-blog-2.vercel.app"))
       res.end()
   return {
     props: {
