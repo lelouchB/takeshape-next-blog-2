@@ -22,7 +22,11 @@ function Posts({ post }) {
         </div>
 
         <div className={styles.info}>
-          <div className={styles.author}>By: {post.author.name}</div>
+          <div className={styles.author}>
+            <Link href={`/author/${post.author.slug}`}>
+              <a> By: {post.author.name}</a>
+            </Link>
+          </div>
           <div className={styles.tags}>
             {post.tags.map((tag) => (
               <Link key={tag._id} href={`/tag/${tag._id}`}>
