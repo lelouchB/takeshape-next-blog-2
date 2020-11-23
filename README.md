@@ -1,4 +1,4 @@
-[![homepage](https://i.imgur.com/xPu2zCv.png)](https://takeshape-next-blog-2.vercel.app)
+[![homepage](https://i.imgur.com/vNZegyY.png)](https://takeshape-next-blog-2.vercel.app)
 
 
 
@@ -10,11 +10,11 @@
 
 ## Quickstart
 
-<a href="//app.takeshape.io/add-to-takeshape?repo=https://github.com/lelouchB/takeshape-next-blog-2/tree/master/pattern"><img alt="Deploy To TakeShape" src="https://images.takeshape.io/2cccc825-70be-431c-9ba0-10ab38ecd3a7/dev/8e2f7bda-0e08-4ede-a546-6df59be6a8bb/Deploy%20to%20TakeShape%402x.png?auto=format%2Ccompress" width=205 height=38></a>
+<a href="//app.takeshape.io/add-to-takeshape?repo=https://github.com/lelouchB/takeshape-next-blog-2/tree/main/pattern"><img alt="Deploy To TakeShape" src="https://images.takeshape.io/2cccc825-70be-431c-9ba0-10ab38ecd3a7/dev/8e2f7bda-0e08-4ede-a546-6df59be6a8bb/Deploy%20to%20TakeShape%402x.png?auto=format%2Ccompress" width=205 height=38></a>
 
 1. Use the "Deploy to TakeShape" button to create the project in TakeShape.
 2.  Set up and run the client application
-    1. `git clone https://github.com/lelouchB/takeshape-next-blog && cd takeshape-next-blog`
+    1. `git clone https://github.com/lelouchB/takeshape-next-blog-2 && cd takeshape-next-blog-2`
     1. `npm install` - This will install all dependencies
 
 3. Rename `.env.example` to `.env` and add your TakeShape project's id and API key to it.
