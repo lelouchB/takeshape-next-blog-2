@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://takeshape-next-blog2.vercel.app/sitemap.xml
+Sitemap: http://takeshape-next-blog-2.vercel.app/sitemap.xml
