@@ -6,6 +6,8 @@
 
 #### Demo blog made with TakeShape CMS and Next.js 
 
+### Tutorial: [How to build a blog with NextJS and TakeShape | Part II](https://www.takeshape.io/articles/how-to-build-a-blog-with-nextjs-and-takeshape-part-ii/)
+
 <!-- ### Tutorial: [How to build a blog with NextJS and TakeShape](https://www.takeshape.io/articles/how-to-build-a-blog-with-nextjs-and-takeshape/) -->
 
 ## Quickstart
